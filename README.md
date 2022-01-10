@@ -14,16 +14,19 @@
 Fill in your details where you see this icon ✍️
 We have provided a sample Day Journey entry staring at 0. You can delete this example.
 
-## [✍️ Your Name]'s Cloud Journey
+## Alex's Cloud Journey
 
 [✍️ Introduce yourself]
+I've been working in a medium sized business for the past few years and run the day-to-day operations. My main cloud experience is with Microsoft 365 and Cloud-Hosted VoIP phone systems but I'm interested in expanding my skillset in the cloud.
 
 [✍️ Tell us why you started this challenge]
+I started this challenge to gain more experience with cloud projects and expand my knowledge with the different solutions available in the cloud.
 
 [✍️ Tell us where you want to be at the end of the challenge]
+At the end of the challenge I'd like to gain more expertise in recommending cloud solutions for business problems and to also attempt the AWS Cloud Certified Practicioner exam.
 
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- https://twitter.com/Alex_Santiam
+- https://www.linkedin.com/in/alex-romero-i2049/
 
 ## Stepping out the door
 
