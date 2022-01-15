@@ -73,7 +73,7 @@ This was a great day 1 exercise for #100DaysOfCloud. I didn't realize all the mi
 Next, I'd like to explore AWS further and find a small project that will help prepare me for the Certified Cloud Practicioner Exam.
 ## Social Proof
 
-![Screenshot]()
+![Screenshot](https://s3.us-west-2.amazonaws.com/santiamdigital.com/100DaysOfCloud/LinkedIn-day-1.png)
 
 [Twitter](https://twitter.com/Alex_Santiam)
 [LinkedIn](https://www.linkedin.com/in/alex-romero-i2049/)
