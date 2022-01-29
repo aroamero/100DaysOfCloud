@@ -48,7 +48,7 @@ Additional configuration options include: Purchasing Option, IAM instance profil
 
 From this page, you can also add additional Storage Volumes, select Security Groups, and designate a Key Pair to connect to the instances.
 
-![Screenshot](![image](https://user-images.githubusercontent.com/44533500/151673646-0790b70a-085a-4dfd-b609-5369d9e40941.png))
+![Screenshot](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe46be038-c4f1-40ef-88db-ed4725b5a811%2FUntitled.png?table=block&id=88aac5c8-4c43-48e0-99b1-a4c38b875687&spaceId=33b16dcc-d006-4ad9-8f62-15abd9fafc7f&width=1280&userId=a6f0a3b0-65db-4305-8c72-b90bdb1d5173&cache=v2)
 
 Select ‘Create Launch Configuration’.
 
