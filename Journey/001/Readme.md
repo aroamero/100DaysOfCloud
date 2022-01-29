@@ -70,7 +70,7 @@ This was a great day 1 exercise for #100DaysOfCloud. I didn't realize all the mi
 
 ## Next Steps
 
-Next, I'd like to explore AWS further and find a small project that will help prepare me for the Certified Cloud Practicioner Exam.
+Next, I'd like to explore AWS further and find a small project that will help prepare me for the Certified Cloud Practitioner Exam.
 ## Social Proof
 
 ![Screenshot](https://s3.us-west-2.amazonaws.com/santiamdigital.com/100DaysOfCloud/LinkedIn-day-1.png)
