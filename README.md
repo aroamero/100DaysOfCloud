@@ -27,9 +27,9 @@ At the end of the challenge I'd like to gain more expertise in recommending clou
 
 ## Stepping out the door
 
-- [ ] ☁️ 1 > [My First Day](Journey/001/Readme.md)
-- [ ] ☁️ 2 > [](Journey/002/Readme.md)
-- [ ] ☁️ 3 > [](Journey/003/Readme.md)
+- [ ] ☁️ 1 > [Launch a website on EC2](Journey/001/Readme.md)
+- [ ] ☁️ 2 > [AMI and Auto Scaling Groups](Journey/002/Readme.md)
+- [ ] ☁️ 3 > [Elastic Load Balancer](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [](Journey/006/Readme.md)
